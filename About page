@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About CodeHack</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CodeHack</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About CodeHack</h2>
+        <p>At CodeHack, we specialize in building secure, sleek, and modern websites for businesses and individuals. Whether you're looking for a personal site, portfolio, or business website, we bring your ideas to life.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 CodeHack. All rights reserved.</p>
+    </footer>
+</body>
+</html>
