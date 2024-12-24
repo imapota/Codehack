@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - CodeHack</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CodeHack</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Here are some of the websites I've created:</p>
+        <div class="project">
+            <h3>Project 1: Hacker Website</h3>
+            <p>A sleek, dark-themed website for a tech company.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2: Personal Blog</h3>
+            <p>A secure and responsive blog design with dark aesthetics.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 CodeHack. All rights reserved.</p>
+    </footer>
+</body>
+</html>
