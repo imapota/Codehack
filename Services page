@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - CodeHack</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CodeHack</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section id="services">
+        <h2>Services Offered</h2>
+        <ul>
+            <li>Website Development</li>
+            <li>Responsive Design</li>
+            <li>Security Audits</li>
+            <li>SEO Optimization</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 CodeHack. All rights reserved.</p>
+    </footer>
+</body>
+</html>
